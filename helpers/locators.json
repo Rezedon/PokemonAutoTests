@@ -1,0 +1,16 @@
+{
+    "locators":{
+        "input_field": ".MuiInputBase-root.MuiOutlinedInput-root > input",
+          "email_helper_text" : "#k_email-helper-text",
+          "error_color": "rgb(231, 81, 73)",
+          "error_submit": ".k_error_submit",
+          "style_1_heading": ".style_1_heading_38_400_pokemon_classic",
+          "trainer_id_num": ".header_card_trainer_id_num",
+       
+
+        "authorization" : {
+            "btn_enter": "#root > div > div > section > div.style_1_popup_white_in.style_1_popup_white_in_auth > form > button" 
+          
+        }
+    }
+}
